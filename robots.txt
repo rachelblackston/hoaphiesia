@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://veeyoilee.tv-niederbiel.de/sitemap.xml
